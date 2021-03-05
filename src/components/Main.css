@@ -1,0 +1,9 @@
+.main {
+  height: 500px;
+  align-content: center;
+}
+
+.main > h3 {
+  text-align: center;
+  padding: 225px 0;
+}
